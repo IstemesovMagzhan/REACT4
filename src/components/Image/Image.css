@@ -1,0 +1,7 @@
+.Image {
+  object-fit: cover;
+  border: 1px solid rgb(136, 117, 92);
+  padding: 3px;
+  margin: 5px;
+
+}
