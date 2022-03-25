@@ -5,3 +5,11 @@
   margin: 5px;
 
 }
+.Image.Left {
+  float: left;
+  margin-left: 0;
+}
+.Image.right {
+  float: right;
+  margin-right: 0;
+}
